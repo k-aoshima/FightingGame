@@ -1,0 +1,32 @@
+{
+    "cSharp": {
+        "img": "cSharp.png",
+        "title": "C# + .NETFramework",
+        "text": "業務で最も使用している言語とフレームワークです。得意としているのは、Viewの作成と独自のユーザーコントロールの作成です。最近ではハードウェアやDB接続用のラッパーDLLを主に作成しています。"
+    },
+    "python": {
+        "img": "python.png",
+        "title": "Python",
+        "text": "業務でC#の次に使用頻度が多い言語です。主にOpenCVを使用したカメラ周りの制御実装、機械学習等々、C#では実装のハードルが高い分野で使用しています。"
+    },
+    "php": {
+        "img":"php.png",
+        "title": "PHP + MySQL",
+        "text": "私がIT業界に入った際に一番最初に触れた言語です。バックエンドについては業務でほぼ触れていないため、時折DBに触れることができるように後述のRasberry PiにてDB環境を整え学習をするようにしています。"
+    },
+    "flutter": {
+        "img":"flutter.png",
+        "title": "Flutter",
+        "text": "最近趣味で多く触っているフレームワークです。目標の1つであるアプリケーションエンジニアになるために日々、個人開発に没頭しています。"
+    },
+    "unity": {
+        "img":"unity.png",
+        "title": "Unity",
+        "text": "Flutterに続き、こちらも目標の1つであるゲームエンジニアに向けて触れている開発エンジンです。いつかインディーズゲームを開発し、リリースするのが夢です。"
+    },
+    "raspberryPi": {
+        "img":"raspberryPi.png",
+        "title": "Raspberry Pi + MySQL",
+        "text": "自宅でDB環境を使用する際にRasberry Piを購入しました。基本的なDB環境の作り方についてはこのマシンで学びました。"
+    }
+}

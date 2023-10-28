@@ -1,0 +1,35 @@
+{    
+    "next-station" : {
+        "url": "img/NextStationSearch.jpg",
+        "title": "NextStation is...",
+        "subtitle": "次駅自動検索アプリ",
+        "product-dialog": {
+            "img": "",
+            "explanation": "次の駅をリアルタイムで表示してくれるアプリです。GPSを活用し、次の駅を自動で表示します。満員電車で車内のモニターが見れない時、車内で寝てしまっていて次の駅が分からない時に活用してくれる事を期待しています。 路線の追加は座標が記載されたcsvを更新することでローカル線にも容易に対応できるようになっています。",
+            "diagram-img": "",
+            "use-skill": "Flutter,dart,geolocater"
+        }
+    },
+    "switch-bot" : {
+        "url": "img/SwitchBotApp.PNG",
+        "title": "SwitchBotManager",
+        "subtitle": "スマートホーム制御アプリ",
+        "product-dialog": {
+            "img": "",
+            "explanation": "赤外線家電を一括管理できる「SwitchBotハブミニ」という商品を制御することができるアプリです。SwitchBotはスマートフォンアプリでの操作のみが対象のため、PCからも家電を操作できるようにアプリを作成しました。ブラウザからの操作はもちろん、RaspberryPiに構築したDBに保管しているため自宅のWi-fiに接続したスマホやタブレットからの操作が可能になっています。",
+            "diagram-img": "",
+            "use-skill": "PHP,JSON,RaspberryPi,MySQL"
+        }
+    },
+    "fighting-game" : {
+        "url": "img/FightingGame.png",
+        "title": "FightingGame",
+        "subtitle": "格闘ゲーム(開発中)",
+        "product-dialog": {
+            "img": "",
+            "explanation": "格闘ゲームを題材にUnityを学習しています。現在は2Dアニメーションの作成とキー入力を中心に開発中です。ゲームプレイ中にストレスが発生しない様に軽快な動作を目指しています。 今後、PvPの仕組み作成・対人AIの作成・攻撃エフェクトの追加等、1つの格闘ゲームとして完成させたいと思います。",
+            "diagram-img": "",
+            "use-skill": "Unity, C#"
+        }
+    }
+}
